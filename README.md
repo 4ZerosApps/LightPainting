@@ -3,7 +3,7 @@ LightPainting
 
 LightPainting coded with Processing 2.0.2
 
-This sketch is for educationnal use. 
+This sketch is for educational use. 
 I want to compare different ways to produce LightPainting 
 (Digital camera with long expose time VS Digital webcam and programming)
 
