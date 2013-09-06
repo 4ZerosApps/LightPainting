@@ -35,7 +35,7 @@ void setup() {
   }
 //  println(camChoice);
 */
-  cam = new Capture(this, "name=HP Webcam 3110,size=640x480,fps=15/2");
+  cam = new Capture(this, cameras[camChoice]);
   cam.start(); 
 //  println(cam.width+" "+cam.height);
   widthWindow = 800;
